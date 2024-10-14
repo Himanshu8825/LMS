@@ -125,7 +125,7 @@ const Form = ({
       <Button
         disabled={isBtnDisabled}
         type="submit"
-        className="mt-4 w-full bg-[#3bbbb0] hover:bg-[#30958c]"
+        className="mt-4 w-full btn-color"
       >
         {buttonText || 'Submit'}
       </Button>
